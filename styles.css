@@ -236,6 +236,7 @@ img{max-width:100%;display:block}
 .contact-k{display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:1px;color:var(--muted)}
 .contact-v{font-weight:700;font-size:1.05rem}
 a.contact-v:hover{color:var(--accent)}
+.contact-hint{display:block;margin-top:.25rem;font-size:.82rem;font-weight:500;color:var(--muted)}
 .contact-form{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:30px}
 .field{margin-bottom:1.1rem}
 .field label{display:block;font-size:.85rem;color:var(--muted);margin-bottom:.4rem;font-weight:600}
