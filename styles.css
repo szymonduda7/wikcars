@@ -237,15 +237,6 @@ img{max-width:100%;display:block}
 .contact-v{font-weight:700;font-size:1.05rem}
 a.contact-v:hover{color:var(--accent)}
 .contact-hint{display:block;margin-top:.25rem;font-size:.82rem;font-weight:500;color:var(--muted)}
-.contact-form{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:30px}
-.field{margin-bottom:1.1rem}
-.field label{display:block;font-size:.85rem;color:var(--muted);margin-bottom:.4rem;font-weight:600}
-.field input,.field textarea{
-  width:100%;background:var(--bg);border:1px solid var(--line);border-radius:11px;
-  color:var(--text);padding:.8rem .9rem;font-family:inherit;font-size:.95rem;transition:border-color .15s;
-}
-.field input:focus,.field textarea:focus{outline:none;border-color:var(--accent)}
-.form-note{color:var(--muted);font-size:.8rem;text-align:center;margin-top:.8rem}
 
 /* ===== Footer ===== */
 .site-footer{border-top:1px solid var(--line);padding:40px 0;background:#08090a}
